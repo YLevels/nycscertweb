@@ -7,7 +7,7 @@ Programming
 ------
 Assignment Title | Link to raw file
 --- | --- 
-Game of Life | githubusercontent
+Game of Life | (https://github.com/hunter-teacher-cert/cohort-3-summer-work-YLevels/blob/master/programming/3/Cgol.java)
 
 Methods
 ------
